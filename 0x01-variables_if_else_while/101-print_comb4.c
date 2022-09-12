@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints 3 combination of numbers
- * return: always (success)
+ * main - Prints 3 combination of numbers
+ *
+ * Return: Always (success)
  */
 int main(void)
 {
