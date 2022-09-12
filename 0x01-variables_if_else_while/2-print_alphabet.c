@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-i/**
+/**
  * main-Entry point
  * Description: prints the alphabets in lowercase/n
  * Return: Always 0 (success)
