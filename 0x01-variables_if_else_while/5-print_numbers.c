@@ -4,7 +4,7 @@
  * main - Entry point
  * Description: prints allsingle digit numbers of
  * base 10 from 0
- * Retun: always 0 (success)
+ * Return: always 0 (success)
  */
 int main(void)
 {
