@@ -2,9 +2,9 @@
 #include <unistd.h>
 /**
  * main - Entry point
- * Description: prints allsingle digit numbers of 
+ * Description: prints allsingle digit numbers of
  * base 10 from 0
- * Retun: always 0 (success) 
+ * Retun: always 0 (success)
  */
 int main(void)
 {
