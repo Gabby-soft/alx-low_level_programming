@@ -8,7 +8,7 @@
 
 void jack_bauer(void)
 {
-	int hours_tens, hours_ones, miutes_tens, minutes_ones, hours_max;
+	int hours_tens, hours_ones, minutes_tens, minutes_ones, hours_max;
 
 	hours_max = 58;
 	hours_tens = '0';
@@ -35,7 +35,7 @@ void jack_bauer(void)
 					_putchar('\n');
 					minutes_ones++;
 				}
-				minutes_ones + '0';
+				minutes_ones = '0';
 				minutes_tens++;
 			}
 			minutes_tens = '0';
