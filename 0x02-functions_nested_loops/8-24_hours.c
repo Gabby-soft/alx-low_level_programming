@@ -2,7 +2,7 @@
 
 /**
  * Jack_bauer - prints every minute of the day
- * Description: prints every minute of the day
+ * Description: prints every minute jack_bauer
  * Return: void
  */
 
