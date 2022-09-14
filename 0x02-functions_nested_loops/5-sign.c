@@ -4,7 +4,7 @@
  * print_sign - entry point
  * @n: carrier variable
  * Description: prints the sign of a number
- * return: 1 if n>0, 0 if n ==0, -1 if n<0
+ * Return: 1 if n>0, 0 if n == 0, -1 if n<0
  */
 int print_sign(int n)
 {
