@@ -4,7 +4,7 @@
  *
  * @n: pointer to an int
  *
- * Description: a function that points
+ * Description: a function that updates the value it points to 98
  *
  * return: 0
  */
