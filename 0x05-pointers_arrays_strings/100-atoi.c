@@ -22,7 +22,7 @@ int _atoi(char *s)
 				digit = -digit;
 			num = num * 10 + digit;
 			a = 1;
-			if (s[count - 1] < '0' || s[count + 1] > '9')
+			if (s[count + 1] < '0' || s[count + 1] > '9')
 				break;
 			a = 0;
 		}
