@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	int sum = 5789;
+	int sum = 2772;
 	char c;
 
 	srand(time(NULL));
