@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcat - joins(conacatenat) two strings together
+ * _strcat - joins two strings together
  * @dest: the result string
  * @src: string to add to @dest
  * Return: @dest
