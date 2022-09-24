@@ -2,7 +2,7 @@
 /**
  * leet - encodes a string into 1337 replaced:
  * a,A to 4 e,E to 3 o,O to 0 t,T to 7 l,L to 1
- * @str: sting to encode
+ * @str: string to encode
  * return: a pointer to the encoded string
  */
 
@@ -16,7 +16,7 @@ char *leet(char *str)
 	{
 		for (j = 0; s1[j] != '\0'; j++)
 		{
-			if (str[i] == s1[i])
+			if (str[i] == s1[j])
 				str[i] = s2[j] + 48;
 		}
 		i++;
