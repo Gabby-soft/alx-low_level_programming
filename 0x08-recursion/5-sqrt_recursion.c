@@ -12,7 +12,7 @@ int sqrt_check(int s, int c)
 		return (s);
 	if (s * s > c)
 		return (-1);
-	return (sqrt_checks(s + 1, c));
+	return (sqrt_check(s + 1, c));
 }
 /**
  * _sqrt_recursion - a function that returns the natural root of a number
