@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include <stdio.h>
 /**
  * main - prints the name of the programme
  * @argc: number of arguments passed to the function
@@ -8,6 +8,6 @@
  */
 int main(int argc __attribute__((unused)), char *argv[])
 {
-	printf("%s\n", arvc[]);
+	printf("%s\n", argv[0]);
 	return (0);
 }
