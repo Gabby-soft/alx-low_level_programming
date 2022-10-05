@@ -1,8 +1,8 @@
 #include <stdlib.h>
 /**
- * main - a programme name
- * @argc: argument count
- * @argv: argumen vector
+ * main - prints the name of the programme
+ * @argc: number of arguments passed to the function
+ * @argv: argument vector of pointers to strings
  *
  * Return: 0 success
  */
