@@ -8,7 +8,7 @@
  *
  * Return: 0 if no errors, otherwise 1
  */
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int a, b, c;
 
